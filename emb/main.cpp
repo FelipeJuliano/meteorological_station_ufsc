@@ -129,20 +129,22 @@ class enviadados
 
 int main()
 {
-  
 
+dados *captandodados, *captandodadosa, *enviadados;
+int i;
+i = 1;
 
+    while (i=1)
 
+            {
 
+                
+                captandodados -> dht11();
 
+                captandodadosa -> anemometrof();
 
+                enviadados -> enviadados();
 
-
-
-
-
-
-
-
+            }
     return 0;
 }
