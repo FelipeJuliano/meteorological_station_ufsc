@@ -118,8 +118,8 @@ class enviadados
   std::string sendtemp;
 	serialPort.Send(readtemp);
 
-  std::string sendData;
-	serialPort.Send(readData);
+  std::string sendumid;
+	serialPort.Send(readumid);
 
 
 	serialPort.Close();
